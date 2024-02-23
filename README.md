@@ -1,1 +1,2 @@
-#Learning the main concepts of JavaScript
+- Learning the main concepts of JavaScript ES6
+  
